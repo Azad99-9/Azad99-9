@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p align="right">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Azad99-9&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Azad99-9&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61" />
 </p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azad99-9&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
